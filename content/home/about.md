@@ -41,8 +41,7 @@ filière **MMIS** (Modélisation mathématique, image, simulation) pour ensuite 
 spécialiser d'avantage dans la **modélisation 3D** et le **traitement d'images**.
 
 
-Les domaines du **jeux vidéo**, des **effets spéciaux**, de la **VR** et de l'**AR** me
-tiennent particulièrement à coeur.
+Les domaines de **l'imagerie** et du **rendu graphique** me tiennent à coeur. 
 
 Je suis également passionné par l'étranger.
 J'ai passé un an en immersion totale dans une famille américaine à Raleigh, Caroline du Nord, entre ma
