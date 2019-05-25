@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "segretil.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "louis.segretin@ensimag.fr"
-  address = "3 bd des diables bleus 38000 Grenoble"
+  email = "louis.segretin@gmail.com"
+  address = ""
   office_hours = ""
-  phone = "06 59 61 73 85"
+  phone = ""
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.

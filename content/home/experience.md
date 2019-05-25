@@ -18,8 +18,24 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Chargé du développement d'un écran interactif géant"
+  title = "Stagiaire en deep learning"
+  company = "Ark innovation"
+  company_url = "http://www.ark-innovation.com/indexfr.php"
+  location = "Paris"
+  date_start = "2019-02-25"
+  date_end = "2018-08-23"
+  description = """
+  Reconnaissance de structures osseuses fines sur des stéréoradiographies à rayons X.
+
+  Développement en **Python**.
+  Utilisation de **PyTorch** pour une mise en place de solutions
+  avec réseaux de neurones profonds.
+  """
+
+[[experience]]
+  title = "Stagiaire chargé du développement d'un écran interactif géant."
   company = "Ark innovation"
   company_url = "http://www.ark-innovation.com/indexfr.php"
   location = "Chambéry"
@@ -30,7 +46,7 @@ date_format = "January 2006"
   interactif géant utilisant des caméras infra-rouges.
 
   Développement en **C++** pour **traitement d'image** avec **OpenCV**.
-  
+
   Création de jeux-vidéos interactifs en **C# avec Unity**.
   """
 

@@ -31,7 +31,7 @@ weight = 5
   course = "Baccalauréat S"
   institution = "Lycée Pape Clément, Pessac"
   year = 2014
- 
+
 +++
 
 # Biographie
@@ -39,10 +39,3 @@ weight = 5
 Je suis un étudiant en 3ème année à Grenoble INP - Ensimag. J'ai choisi la
 filière **MMIS** (Modélisation mathématique, image, simulation) pour ensuite me
 spécialiser d'avantage dans la **modélisation 3D** et le **traitement d'images**.
-
-
-Les domaines de **l'imagerie** et du **rendu graphique** me tiennent à coeur. 
-
-Je suis également passionné par l'étranger.
-J'ai passé un an en immersion totale dans une famille américaine à Raleigh, Caroline du Nord, entre ma
-seconde et ma première, je parle donc **anglais couramment**. J'ai également un niveau C1 en Italien.
