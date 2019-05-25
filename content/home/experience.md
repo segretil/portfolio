@@ -20,18 +20,21 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Stagiaire en deep learning"
-  company = "Ark innovation"
-  company_url = "http://www.ark-innovation.com/indexfr.php"
+  title = "Stagiaire Deep learning"
+  company = "EOS Imaging"
+  company_url = "https://www.eos-imaging.fr/fr"
   location = "Paris"
   date_start = "2019-02-25"
-  date_end = "2018-08-23"
+  date_end = "2019-08-23"
   description = """
   Reconnaissance de structures osseuses fines sur des stéréoradiographies à rayons X.
 
   Développement en **Python**.
+
   Utilisation de **PyTorch** pour une mise en place de solutions
   avec réseaux de neurones profonds.
+
+  Développement en **agile** (Jira) avec **revues par pairs** (Gerrit).
   """
 
 [[experience]]
